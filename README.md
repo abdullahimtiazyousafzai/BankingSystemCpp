@@ -12,6 +12,9 @@ Represents a transaction with a description (e.g., "Deposit" or "Withdraw") and 
 Bank Class:
 
 Manages a list of customers, an unordered map for quick access to customer iterators using account numbers, a binary search tree (BST) for efficient account number searches, and a global transaction history queue.
+
+
+
 **Bank Class Methods:**
 Customer Management:
 add_customer():
